@@ -15,11 +15,10 @@ I'm a **first-year Software Engineering student** at ITMO University.
 
 Currently *exploring algorithms* and ~~avoiding difficult problems~~ solving them one by one.
 
-```python
-def hello():
-    print("Hello, world! 🌍")
-
-hello()
+```rust
+fn main() {
+    println!("Hello, world! 🌍");
+}
 ```
 
 ## My developer journey 🚀
