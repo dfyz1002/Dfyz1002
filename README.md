@@ -38,7 +38,7 @@ fn main() {
 
 **GitHub Stats**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dfyz1002&theme=radical)
 
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)
 
