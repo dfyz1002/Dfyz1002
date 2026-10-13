@@ -36,11 +36,13 @@ fn main() {
 | C++ ⚡ | Learning |
 | Rust 🦀 | Next goal |
 
-**GitHub Stats**
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dfyz1002&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dfyz1002&theme=radical)
 
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Dfyz1002&layout=compact&theme=radical)
 
 ---
 
